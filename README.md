@@ -1,0 +1,1 @@
+# Atom Solidity Comments Generator
