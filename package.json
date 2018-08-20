@@ -1,0 +1,21 @@
+{
+  "name": "solidity-comments",
+  "main": "./lib/atom-solidity-comments",
+  "version": "1.0.0",
+  "description": "Generator for default solidity contract comments based on natspec",
+  "keywords": [
+    "solidity",
+    "comments"
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-solidity-comments:toggle"
+  },
+  "repository": "https://github.com/nodefactoryio/atom-solidity-comments",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "@nodefactory/solidity-comments-core": "^1.0.0"
+  }
+}

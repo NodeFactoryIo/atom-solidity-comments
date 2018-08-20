@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-solidity-comments",
+        "command": "atom-solidity-comments:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-solidity-comments",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-solidity-comments:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
