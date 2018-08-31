@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "atom-solidity-comments:toggle"
+    "ctrl-alt-g": "atom-solidity-comments:toggle"
   }
 }
