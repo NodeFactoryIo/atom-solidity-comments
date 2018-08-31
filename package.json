@@ -1,7 +1,7 @@
 {
   "name": "solidity-comments",
   "main": "./lib/atom-solidity-comments",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Generator for default solidity contract comments based on natspec",
   "keywords": [
     "solidity",
