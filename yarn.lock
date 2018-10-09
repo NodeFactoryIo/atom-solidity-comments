@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@nodefactory/solidity-comments-core@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@nodefactory/solidity-comments-core/-/solidity-comments-core-1.2.0.tgz#8f3e9c53bbb654518e5145a2fbb01e134ff8ae3e"
+"@nodefactory/solidity-comments-core@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@nodefactory/solidity-comments-core/-/solidity-comments-core-1.2.1.tgz#5c9c83c2d5989f2d456bf28371835462d66e819b"
   dependencies:
     mustache "^2.3.0"
     solidity-parser-antlr "^0.3.0"
